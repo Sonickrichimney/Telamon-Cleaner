@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 56" role="img" aria-label="Download Download">
+  <defs>
+    <linearGradient id="btn" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#455a64"/>
+      <stop offset="100%" stop-color="#607d8b"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="272" height="48" rx="24" fill="none" stroke="url(#btn)" stroke-width="3"/>
+  <polygon points="28,30 36,22 36,26 44,26 44,34 36,34 36,38" fill="#455a64"/>
+  <text x="56" y="34" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Download</text>
+</svg>
